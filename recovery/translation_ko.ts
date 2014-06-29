@@ -400,7 +400,7 @@ WARNING: This will erase all data on your SD card</source>
         <location filename="mainwindow.cpp" line="468"/>
         <source>OS(es) Installed Successfully</source>
         <oldsource>OS Installed Successfully</oldsource>
-        <translation>운영체제 설치를 성공하였습니다.</translation>
+        <translation>운영체제 설치에 성공하였습니다.</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="532"/>
