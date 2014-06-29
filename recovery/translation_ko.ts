@@ -635,7 +635,7 @@ Would you like to make this setting permanent?</source>
     <message>
         <location filename="progressslideshowdialog.cpp" line="138"/>
         <source>%1 MB of %2 MB written (%3 MB/sec)</source>
-        <translation>.%1 MB 중 %2 MB 기록 완료 (%3 MB/초)</translation>
+        <translation>%2 MB 중 %1 MB 기록 완료 (%3 MB/초)</translation>
     </message>
     <message>
         <location filename="progressslideshowdialog.cpp" line="143"/>
