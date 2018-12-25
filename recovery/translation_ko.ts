@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ko" sourcelanguage="en">
+<TS version="2.1" language="ko" sourcelanguage="en">
 <context>
     <name>BootSelectionDialog</name>
     <message>
@@ -225,7 +225,7 @@ WARNING: This will erase all data on your SD card</source>
     <message>
         <location filename="initdrivethread.cpp" line="114"/>
         <source>Finish writing to disk (sync)</source>
-        <translation>디스크 기록을 완료하고 있습니다. (동기화 중)</translation>
+        <translation>(동기화) 디스크 기록을 완료합니다.</translation>
     </message>
     <message>
         <location filename="initdrivethread.cpp" line="124"/>
@@ -411,7 +411,7 @@ WARNING: This will erase all data on your SD card</source>
     <message>
         <location filename="mainwindow.cpp" line="119"/>
         <source>Waiting for SD card (settings partition)</source>
-        <translation>SD 카드를 준비하고 있습니다 (설정 파티션)</translation>
+        <translation type="unfinished">(설정 파티션) SD 카드를 준비하고 있습니다</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="132"/>
@@ -793,7 +793,7 @@ Would you like to make this setting permanent?</source>
     <message>
         <location filename="wifisettingsdialog.ui" line="22"/>
         <source>Wifi network selection</source>
-        <translation>WI-FI 네트워크 선택</translation>
+        <translation>Wi-Fi 네트워크 선택</translation>
     </message>
     <message>
         <location filename="wifisettingsdialog.ui" line="28"/>
