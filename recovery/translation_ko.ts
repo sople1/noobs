@@ -411,7 +411,7 @@ WARNING: This will erase all data on your SD card</source>
     <message>
         <location filename="mainwindow.cpp" line="119"/>
         <source>Waiting for SD card (settings partition)</source>
-        <translation type="unfinished">(설정 파티션) SD 카드를 준비하고 있습니다</translation>
+        <translation>(설정 파티션) SD 카드를 준비하고 있습니다</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="132"/>
@@ -436,7 +436,7 @@ WARNING: This will erase all data on your SD card</source>
     <message>
         <location filename="mainwindow.cpp" line="613"/>
         <source>Warning: incompatible Operating System(s) detected. The following OSes aren&apos;t supported on this revision of Raspberry Pi and may fail to boot or function correctly:</source>
-        <translation>경고: 호환되지 않는 운영체제를 발견하였습니다. 이 운영체제는 Raspberry Pi 의 현재 리비전을 지원하지 않으므로 부팅에 실패하거나 기능이 제대로 동작하지 않을 수 있습니다.</translation>
+        <translation>경고: 호환되지 않는 운영체제를 발견하였습니다. 이 운영체제는 Raspberry Pi 의 현재 리비전을 지원하지 않으므로 제대로 부팅할 수 없거나 원래 기능을 제대로 이용할 수 없을 수 있습니다. 대상 운영체제:</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="655"/>
@@ -567,7 +567,7 @@ Would you like to make this setting permanent?</source>
     <message>
         <location filename="multiimagewritethread.cpp" line="320"/>
         <source>Finish writing (sync)</source>
-        <translation>기록을 완료하고 있습니다. (동기화 중)</translation>
+        <translation>(동기화) 기록을 완료합니다.</translation>
     </message>
     <message>
         <location filename="multiimagewritethread.cpp" line="457"/>
